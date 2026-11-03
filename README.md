@@ -6,9 +6,6 @@
 
 **An IoT–AI–mobile framework that helps passengers decide whether to board, wait, or walk—not just when a shuttle will arrive.**
 
-![Status](https://img.shields.io/badge/Status-Research%20Prototype-blue)
-![Research](https://img.shields.io/badge/Document-Patent%20Specification%20Draft-purple)
-![IoT](https://img.shields.io/badge/IoT-ESP32%20%7C%20GPS%20%7C%204G%20LTE-008080)
 ![Mobile](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter&logoColor=white)
 
 </div>
